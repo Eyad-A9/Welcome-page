@@ -1,0 +1,42 @@
+h1
+{
+ margin-left:270px;
+}
+button 
+{  
+ color: white;
+ border: black;
+ margin-left:350px;
+ border-radius: 3px ;
+ font-size: 1.5em;
+ cursor:pointer;
+ background-color:rgb(225, 31, 21) ;
+}
+button:hover{
+    background-color:rgb(178, 9, 9);
+}
+body{
+    margin-left:350px;
+    padding: 80px;
+    margin:auto;
+}
+label 
+{
+ margin-left:340px;
+ font-weight: bold;
+    font-family: Arial,sans-serif;
+    font-size: 1.2em;
+}
+#name
+{
+    font-family: Arial,sans-serif;
+ margin-left:280px;
+    width: 35%;
+    text-align: center;
+    font-size: 1.25em; /*200%*/
+    border: 2px solid;
+    border-radius: 15px;
+    margin-bottom: 15px;
+    margin-top: 7px;
+    box-shadow:1px 1px black;
+}
